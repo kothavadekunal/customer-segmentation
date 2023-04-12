@@ -15,6 +15,6 @@ Segment customers visiting shopping mall based on the Invoice data.
   6. Dissatisfied customers - They spend a lot on shopping, but the previous purchase didnt suit them
   7. Soon-to-be loyal customers - they are 'soon-to-be' loyal customers if the previous purchase suited them and the mall catches their attention
 
-![Segmentation](https://github.com/kothavadekunal/customer-segmentation/blob/main/segmentation.png?raw=true)
+![Segmentation](https://github.com/kothavadekunal/customer-segmentation/blob/main/segmentation.png)
 
 
